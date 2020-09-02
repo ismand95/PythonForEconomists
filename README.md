@@ -10,3 +10,24 @@ These examples can of course be done using propretary systems like Stats or MatL
 ### Current status
 
 This is very much a work-in-progress and will probably never be fully complete - however it is always a fun learning experience to create ressources for learning and development.
+
+
+### Project structure
+
+I will try to do as much work as possible in Jupyter Notebooks _(as I believe these are intuitive, easily distributable and have graphical abilities)_. The folder "Notebooks" will contain subfolders of different overall subjects (econometrics etc.). Under these subfolders, there'll be 1 notebook per 1 subject. Example of this is one notebook for Simple Linear Regression in Econometrics. 
+
+I will try to use open data-sources and fetch data over the internet, så one only needs to download the Jupyter notebook to be able to run the code and have everything execute properly.
+
+
+### Requirements
+
+This collection of examples expects some programming knowledge and a working setup. This includes (but not limited to):
+
+- Working Python 3 installation
+- Working Jupyter Notebook installation
+- Misc. packages installed - these will (among others) be
+--- Pandas
+--- Numpy
+--- Scipy
+--- Matplotlib
+--- etc.
