@@ -23,11 +23,12 @@ I will try to use open data-sources and fetch data over the internet, så one on
 
 This collection of examples expects some programming knowledge and a working setup. This includes (but not limited to):
 
-- Working Python 3 installation
-- Working Jupyter Notebook installation
-- Misc. packages installed - these will (among others) be
---- Pandas
---- Numpy
---- Scipy
---- Matplotlib
---- etc.
+* Working Python 3 installation
+* Working Jupyter Notebook installation
+* Misc. packages installed - these will (among others) be
+    * Pandas
+    * Numpy
+    * Scipy
+    * Matplotlib
+    * etc.
+
