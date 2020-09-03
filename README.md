@@ -14,7 +14,7 @@ This is very much a work-in-progress and will probably never be fully complete -
 
 ### Project structure
 
-I will try to do as much work as possible in Jupyter Notebooks _(as I believe these are intuitive, easily distributable and have graphical abilities)_. The folder "Notebooks" will contain subfolders of different overall subjects (econometrics etc.). Under these subfolders, there'll be 1 notebook per 1 subject. Example of this is one notebook for Simple Linear Regression in Econometrics. 
+I will try to do as much work as possible in Jupyter Notebooks _(as I believe these are intuitive, easily distributable and have great graphical abilities)_. The folder "Notebooks" will contain subfolders of different overall subjects (econometrics etc.). Under these subfolders, there'll be 1 notebook per 1 subject. Example of this is one notebook for Simple Linear Regression in Econometrics. 
 
 I will try to use open data-sources and fetch data over the internet, as one only needs to download the Jupyter notebook to be able to run the code and have everything execute properly.
 
