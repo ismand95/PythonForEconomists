@@ -1,5 +1,7 @@
 # PythonForEconomists
 
+Interact and run this repository in live Jupyter Notebooks using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismand95/PythonForEconomists/master)
+
 ### Goal of this project
 
 This notebook is a part of my personal portfolio and is meant as a guide/tutorial to complete lots of different computing tasks _(usually encountered within economics, statistics or finance)_ using Python.
