@@ -1,0 +1,9 @@
+name: PythonForEconomists
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - statsmodels
