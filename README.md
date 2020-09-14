@@ -1,6 +1,8 @@
 # PythonForEconomists
 
-Interact and run this repository in live Jupyter Notebooks using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismand95/PythonForEconomists/master)
+Interact and run this repository in live Jupyter Notebooks using Binder: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ismand95/PythonForEconomists/master)
 
 ### Goal of this project
 
