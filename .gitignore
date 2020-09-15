@@ -1,6 +1,9 @@
 # ignore data-files in Econometrics
 Notebooks/Econometrics/data/*
 
+# mac files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
