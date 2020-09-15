@@ -29,11 +29,7 @@ This collection of examples expects some programming knowledge and a working set
 
 * Working Python 3 installation
 * Working JupyterLab installation
-* Misc. packages installed - these will (among others) be
-    * Pandas
-    * Numpy
-    * Scipy
-    * Matplotlib
-    * etc.
+* Misc. packages installed
+    * _environment.yml_ will always be up to date with Python version and package requirements.
 
 For guides on how to install this see the following [link](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html) or read documentation for the aforementioned packages.
