@@ -9,3 +9,4 @@ dependencies:
   - statsmodels
   - requests
   - xlrd
+  - scipy
